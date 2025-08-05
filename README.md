@@ -14,6 +14,8 @@
 ├── README.md
 ├── main.py
 ├── mud.py
+├── environment(rooms, items from rooms)
+├── entities
 ```
 (subjected to change)
 
