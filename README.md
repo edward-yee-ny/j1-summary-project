@@ -2,10 +2,11 @@
 
 ## Members
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+- Lohith Ishan
+- Luke Yeo
+- Matthew Sim
+- Matthew Na
+- Edward Yee
 
 # This is a J1 Summary Project
 - It is a simple MUD game about ...
