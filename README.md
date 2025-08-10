@@ -52,16 +52,16 @@
 ## Classes 
 
 VVVV We should prob class diagram that stuff gang VVVV
-
-- Room <>-- Treasure
-       <>-- Battle
-       <>-- Boss
-       <>-- Map
+```lua
+- Room | <>-- Treasure
+       | <>-- Battle
+       | <>-- Boss
+       | <>-- Map
 ------------------------------
 - Monster
 ------------------------------
 - Player
-
+```
 ## Gameplay
 
 - Gameplay is mainly turn-based with events that occur upon reaching new stages within this MUD
