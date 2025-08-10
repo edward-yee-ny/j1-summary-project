@@ -49,6 +49,33 @@
 - Monster
 - Player
 
+## Gameplay
+
+- Gameplay is mainly turn-based with events that occur upon reaching new stages within this MUD
+- Options are given and can be chosen by typing in the corresponding number
+
+```bash
+For example:
+Would you like to
+1. Move Left
+2. Move Right
+3. Move Forward
+Choose your option: <choice>
+```
+
+### Movement
+
+- From the starting room, you are allowed to move to the left, forward, or right.
+- You will be provided with which directions you are allowed to move in
+- However, you will not be able to know which room that you will be moving into
+
+### Combat
+
+- Combat is a turn based system where you are able to fight with monsters
+- You are able to utilise weapons and weapons provide additional damage (maybe additonal effects)
+- You will also be able to use your inventory
+- Using your inventory will not count toward ending your turn, and you can only use items when it is your turn
+
 # Footnote
 
 This is a J1 Summary Project. Names, characters, businesses, places, events and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. Apologies to those who feel distress due to unintentional fate alignment.
