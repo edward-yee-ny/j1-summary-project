@@ -19,7 +19,7 @@
 ```
 .
 ├── README.md
-├── main.py (pls remove either this or the mud.py file, depending on which one will become the acutal project)
+├── main.py (we might end up with a Game class too? --> this was from the template so see how)
 ├── mud.py
 ├── environment
 ├───── map.py (linkedlist using room's child classes)
@@ -34,10 +34,24 @@
 ├── objects
 ├───── item.py
 ├───── inventory.py (potential hashtable, not necessary to overcomplicate though)
+├── tests
+├───── test1.py
+├───── test2.py
+├───── test3.py 
+├───── ... (not too sure how many things Mr Tester will be needing)
+├── data
+├───── save.json
+├───── items.json
+├───── monsters.json 
+├── helper
+├───── extract_json.py
+├───── pack_json.py 
 ```
 (subjected to change)
 
-## Classes
+## Classes 
+
+VVVV We should prob class diagram that stuff gang VVVV
 
 - Room
   - Treasure
@@ -71,8 +85,8 @@ Choose your option: <choice>
 
 ### Combat
 
-- Combat is a turn based system where you are able to fight with monsters
-- You are able to utilise weapons and weapons provide additional damage (maybe additonal effects)
+- Combat is a turn-based system where you are able to fight with monsters
+- You are able to utilise weapons and weapons provide additional damage (maybe additional effects)
 - You will also be able to use your inventory
 - Using your inventory will not count toward ending your turn, and you can only use items when it is your turn
 
