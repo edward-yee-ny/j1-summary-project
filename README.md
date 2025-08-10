@@ -53,14 +53,13 @@
 
 VVVV We should prob class diagram that stuff gang VVVV
 
-- Room
-  - Treasure
-  - Battle
-  - Boss
-- Map
-- Item
-- Inventory
+- Room <>-- Treasure
+-      <>-- Battle
+-      <>-- Boss
+-      <>-- Map
+------------------------------
 - Monster
+------------------------------
 - Player
 
 ## Gameplay
