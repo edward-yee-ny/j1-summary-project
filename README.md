@@ -52,16 +52,28 @@
 ## Classes 
 
 VVVV We should prob class diagram that stuff gang VVVV
-```lua
-- Room | <>-- Treasure
-       | <>-- Battle
-       | <>-- Boss
-       | <>-- Map
-------------------------------
-- Monster
-------------------------------
-- Player
+
+pls change when decided on whether stats should be a separate class or just internal attribute
+```mermaid
+classDiagram
+    Room <|-- Treasure
+    Room <|-- Battle
+    Room <|-- Boss
+    Room <|-- Map
+    Room : +right()
+    Room : +forward()
+    Room : +left()
 ```
+```mermaid
+classDiagram
+    Player : -inventory
+    Player : +check_inventory()
+```
+```mermaid
+classDiagram
+    Monster : -stats???
+```
+
 ## Gameplay
 
 - Gameplay is mainly turn-based with events that occur upon reaching new stages within this MUD
