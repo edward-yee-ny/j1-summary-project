@@ -54,9 +54,9 @@
 VVVV We should prob class diagram that stuff gang VVVV
 
 - Room <>-- Treasure
--      <>-- Battle
--      <>-- Boss
--      <>-- Map
+       <>-- Battle
+       <>-- Boss
+       <>-- Map
 ------------------------------
 - Monster
 ------------------------------
