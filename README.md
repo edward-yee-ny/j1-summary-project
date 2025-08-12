@@ -1,10 +1,9 @@
 # 2025-summary-project
-
+## The Rise of the Mega Knight 
 - This is a simple MUD game about exploring a dungeon hunting rascal (or mega knight) Data designer DO YOUR JOB NOW 😡😡😡😡😡😡
 
 ## About
 
-[Drop Lore Here]
 
 ## Members
 
