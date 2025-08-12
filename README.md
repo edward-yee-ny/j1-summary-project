@@ -1,6 +1,6 @@
 # 2025-summary-project
 ## The Rise of the Mega Knight 
-- This is a simple MUD game about exploring a dungeon hunting rascal (or mega knight) Data designer DO YOUR JOB NOW 😡😡😡😡😡😡
+- This is a simple MUD game about exploring a dungeon hunting rascal (or mega knight) 
 
 ## About
 Before he was feared across the Arena for his crushing leaps and unstoppable weight, the Mega Knight was just a nameless soldier - strong, yes, but overlooked. His armor was dented, his sword dull, and his name never chanted in the stands like the Prince or the Musketeer. But he had a fire inside him — a will to prove that strength wasn’t just about weapons, but about endurance. Through his perseverance, he has come to face his last trial to become the strongest warrior in the kingdom… 
