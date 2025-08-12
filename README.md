@@ -5,7 +5,7 @@
 ## About
 Before he was feared across the Arena for his crushing leaps and unstoppable weight, the Mega Knight was just a nameless soldier - strong, yes, but overlooked. His armor was dented, his sword dull, and his name never chanted in the stands like the Prince or the Musketeer. But he had a fire inside him — a will to prove that strength wasn’t just about weapons, but about endurance. Through his perseverance, he has come to face his last trial to become the strongest warrior in the kingdom… 
 
- Trial 3: The Leap of Faith 
+ #### Trial 3: The Leap of Faith 
  One day, after years in silence, the King summoned all the warriors in the kingdom to the colosseum, for one purpose, to crown the strongest warrior in the kingdom.
 In this game, you will help him get through his final trial. Can Mega Knight win the tournament and acclaim the title of the greatest warrior in the kingdom?
 
